@@ -14,7 +14,7 @@ I'm a high school student from Türkiye.
 - HTML & CSS (soon)
 
 ## 📌 Featured Projects
-- Calculator (coming soon)
+- Calculator (waiting for future updates)
 - Password Generator (coming soon)
 - File Organizer (coming soon)
 
