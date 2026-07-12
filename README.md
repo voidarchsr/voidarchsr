@@ -15,7 +15,7 @@ I'm a high school student from Türkiye.
 
 ## 📌 Featured Projects
 - Calculator (waiting for future updates)
-- Password Generator (coming soon)
+- Password Generator (waiting for future updates)
 - File Organizer (coming soon)
 
 Thanks for visiting my profile!
