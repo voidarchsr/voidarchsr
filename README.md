@@ -5,13 +5,14 @@ I'm a high school student from Türkiye.
 ## 🎯 Goals
 - 🇩🇪 Study Computer Science in Germany
 - 🐍 Become proficient in Python
-- 💻 Build useful software projects
+- 💻 Become proficient with Linux
 - 📚 Learn algorithms and data structures
 
 ## 🛠️ Currently Learning
 - Python
 - Git & GitHub
-- HTML & CSS (soon)
+- Problem Solving
+- Linux Fundamentals
 
 ## 📌 Featured Projects
 - Calculator (waiting for future updates)
