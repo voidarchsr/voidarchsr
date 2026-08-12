@@ -19,6 +19,7 @@ I'm a high school student from Türkiye.
 - Password Generator (waiting for future updates)
 - File Organizer (waiting for future updates)
 - Weather App (waiting for future updates)
+- Pong Game (waiting for future updates)
 - Word Guessing Game (coming soon)
 
 Thanks for visiting my profile!
