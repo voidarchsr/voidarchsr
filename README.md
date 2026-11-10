@@ -3,7 +3,6 @@
 I'm a high school student from Türkiye.
 
 ## 🎯 Goals
-- 🇩🇪 Study Computer Science in Germany
 - 🐍 Become proficient in Python
 - 💻 Become proficient with Linux
 - 📚 Learn algorithms and data structures
